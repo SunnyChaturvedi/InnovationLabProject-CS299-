@@ -1,4 +1,9 @@
 import streamlit as st
+import os
+import tensorflow as tf
+
+os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
+
 from PIL import Image
 st.title("--------- Denomination Detector ---------")
 st.write("made as a part of CS299 by Sunny Chaturvedi(1801CS54) and Sohil Yadav(1801CS49)")
