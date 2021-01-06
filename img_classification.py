@@ -1,4 +1,4 @@
-import tensorflow.keras
+from keras.models import load_model
 from PIL import Image, ImageOps
 import numpy as np
 
@@ -6,7 +6,7 @@ import numpy as np
 
 def currency_classification(img, weights_file):
     # Load the model
-    model = tensorflow.keras.models.load_model(weights_file)
+    model = load_model(weights_file)
 
     # Create the array of the right shape to feed into the keras model
     data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
