@@ -1,0 +1,6 @@
+streamlit==0.62.1
+setuptools==41.0.0
+tf-nightly
+numpy==1.18.1
+Pillow==7.2.0
+tensorflow==2.0.0b1
