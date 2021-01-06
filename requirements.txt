@@ -1,6 +1,5 @@
-streamlit==0.73.1
+streamlit==0.62.1
 setuptools==41.4.0
 numpy==1.19.5
 Pillow==6.2.0
-keras
-
+tensorflow==2.0.0
