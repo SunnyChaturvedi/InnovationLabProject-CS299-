@@ -3,4 +3,4 @@ setuptools
 tf-nightly
 numpy
 Pillow
-tensorflow
+tensorflow==2.0.0
