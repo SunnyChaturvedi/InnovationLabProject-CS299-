@@ -1,8 +1,9 @@
+import os
+os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"   # see issue #152
+os.environ["CUDA_VISIBLE_DEVICES"] = ""
 import tensorflow.keras
 from PIL import Image, ImageOps
 import numpy as np
-
-
 
 def currency_classification(img, weights_file):
     # Load the model
