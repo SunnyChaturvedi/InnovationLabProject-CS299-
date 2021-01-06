@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 st.title("--------- Denomination Detector ---------")
-st.write("made as a part of CS299 by Sunny Chaturvedi(1801CS54) and Sohail Yadav(1801CS49)")
+st.write("made as a part of CS299 by Sunny Chaturvedi(1801CS54) and Sohil Yadav(1801CS49)")
 st.header("Classifies 6 types of Indian Currency Denominations\n 10, 20, 50, 100, 500, 1000")
 st.text("Upload image of Indian Currency note in jpg format")
 
