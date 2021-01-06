@@ -1,6 +1,5 @@
 streamlit
 setuptools
-tf-nightly
 numpy
 Pillow
 tensorflow==2.0.0
