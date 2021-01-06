@@ -1,5 +1,5 @@
-streamlit==0.62.1
-setuptools==41.0.0
-numpy==1.18.1
-Pillow==7.2.0
-tensorflow==2.0.0
+streamlit==0.73.1
+setuptools==41.4.0
+numpy==1.19.5
+Pillow==6.2.0
+tensorflow==2.4.0
