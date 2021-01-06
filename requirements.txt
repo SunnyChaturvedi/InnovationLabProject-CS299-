@@ -3,4 +3,4 @@ setuptools==41.4.0
 numpy==1.19.5
 Pillow==6.2.0
 tensorflow==2.0.0b1
-h5py==3.1.0
+h5py<3.0.0
