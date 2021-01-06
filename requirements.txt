@@ -2,4 +2,4 @@ streamlit==0.62.1
 setuptools==41.4.0
 numpy==1.19.5
 Pillow==6.2.0
-tensorflow==2.4.0
+tensorflow-cpu
