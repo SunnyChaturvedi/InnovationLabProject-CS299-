@@ -1,0 +1,6 @@
+streamlit
+setuptools
+tf-nightly
+numpy
+Pillow
+tensorflow
