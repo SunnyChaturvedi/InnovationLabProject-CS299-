@@ -19,6 +19,8 @@ streamlit run app.py
 
 It will open the app locally
 
+The images were taken when the app was deployed for 24hour period.
+
 ![100Rs Note](1.jpg)
 100Rs Note
 ![Uploading](2.jpg)
