@@ -14,7 +14,7 @@ Built using Transfer Learning using MobileNetV2[1] from keras , presented with a
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
 Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam
 
-
+### Notes -
 The webapp was deployed temporarily on ngrok from google colab.
 note - the deployment was only for a temporary time as we couldnt afford the paid service of hosting.(the webapp deployment notebook runned in google colab is attached)
 
