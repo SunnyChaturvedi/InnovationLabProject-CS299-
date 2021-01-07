@@ -11,9 +11,10 @@ To run locally -
 
 2. run commands (in python)
 
-'pip install requirements.txt'
-
-'streamlit run app.py'
+```sh
+pip install requirements.txt
+streamlit run app.py
+```
 
 It will open the app locally
 
