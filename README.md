@@ -2,6 +2,7 @@
 Denomination Detector for visually impaired. </p>
 dataset link - https://drive.google.com/file/d/0B7Am6-nOVeP7N1lQOUVUYlBuc0E/edit </p>
 ppt link - https://docs.google.com/presentation/d/1p9zzDof2HG6Ztqtw7jA9SDmfZYiU4MzaE7J9OCUfLTs/edit?usp=sharing </p>
+
 app was deployed temporarily on ngrok
 note - the deployment was only for a temporary time as we couldnt afford the paid service of hosting.(the webapp deployment file is attached)
 
@@ -18,6 +19,11 @@ streamlit run app.py
 
 It will open the app locally
 
-
+![100Rs Note](1.jpg)
+100Rs Note
+![Uploading](2.jpg)
+Uploading the photo of note taken from camera.
+![Output](3.jpg)
+The App predicts the denomination of given currency note.
 
 
