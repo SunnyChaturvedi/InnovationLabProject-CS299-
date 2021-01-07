@@ -6,7 +6,7 @@ ppt link - https://docs.google.com/presentation/d/1p9zzDof2HG6Ztqtw7jA9SDmfZYiU4
 
 ## Description
 A technological solution to help visually impaired persons identify denomination of given Indian Currency Note.
-Built using Transfer Learning using MobileNetV2[1] from keras , 
+Built using Transfer Learning using MobileNetV2[1] from keras , presented with a simple webapp interface using Streamlit and deployed for testing on Pyngrok.
 
 
 ## References
@@ -15,8 +15,8 @@ MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applicatio
 Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam
 
 
-The webapp was deployed temporarily on ngrok.
-note - the deployment was only for a temporary time as we couldnt afford the paid service of hosting.(the webapp deployment notebook  runned in google colab is attached)
+The webapp was deployed temporarily on ngrok from google colab.
+note - the deployment was only for a temporary time as we couldnt afford the paid service of hosting.(the webapp deployment notebook runned in google colab is attached)
 
 
 To run locally -
