@@ -20,7 +20,7 @@ note - the deployment was only for a temporary time as we couldnt afford the pai
 
 
 To run locally -
-1. put all files in a folder
+1. first put all files in a folder
 
 2. run commands (in python)
 
